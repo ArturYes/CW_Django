@@ -1,0 +1,14 @@
+# IDE
+.vscode
+.idea
+
+# venv
+.venv
+poetry.lock
+
+# Cache
+__pycache__/
+
+# Private data
+.env
+

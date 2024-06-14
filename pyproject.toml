@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "cw-django"
+version = "0.1.0"
+description = ""
+authors = ["Artur <youzen0you@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+psycopg2-binary = "^2.9.9"
+django = "^5.0.4"
+pillow = "^10.3.0"
+pytils = "^0.4.1"
+django-apscheduler = "^0.6.2"
+psycopg2 = "^2.9.9"
+redis = "^5.0.4"
+python-dotenv = "^1.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.24.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
