@@ -1,0 +1,75 @@
+[
+{
+    "model": "newsletters.newsletters",
+    "pk": 1,
+    "fields": {
+        "name_newsletter": "Тестовая рассылка менеджера",
+        "date_first_mailing": "2024-05-31T00:00:00Z",
+        "frequency_mailing": "Y",
+        "date_next_mailing": "2057-05-23T00:00:00Z",
+        "state_mailing": "L",
+        "message": 1,
+        "is_active": true,
+        "owner": 2,
+        "clients": [
+            8
+        ]
+    }
+},
+{
+    "model": "newsletters.newsletters",
+    "pk": 2,
+    "fields": {
+        "name_newsletter": "Тестовая рассылка user2",
+        "date_first_mailing": "2024-05-31T00:00:00Z",
+        "frequency_mailing": "W",
+        "date_next_mailing": "2025-01-17T00:00:00Z",
+        "state_mailing": "L",
+        "message": 2,
+        "is_active": true,
+        "owner": 4,
+        "clients": [
+            9
+        ]
+    }
+},
+{
+    "model": "newsletters.newsletters",
+    "pk": 3,
+    "fields": {
+        "name_newsletter": "Нерабочая рассылка",
+        "date_first_mailing": "2024-05-31T00:00:00Z",
+        "frequency_mailing": "D",
+        "date_next_mailing": "2024-07-03T00:00:00Z",
+        "state_mailing": "L",
+        "message": 2,
+        "is_active": false,
+        "owner": 4,
+        "clients": [
+            4,
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "newsletters.newsletters",
+    "pk": 4,
+    "fields": {
+        "name_newsletter": "Тестовая расссылка",
+        "date_first_mailing": "2024-05-31T00:00:00Z",
+        "frequency_mailing": "M",
+        "date_next_mailing": "2027-02-15T00:00:00Z",
+        "state_mailing": "L",
+        "message": 3,
+        "is_active": true,
+        "owner": 3,
+        "clients": [
+            1,
+            2,
+            3,
+            7
+        ]
+    }
+}
+]

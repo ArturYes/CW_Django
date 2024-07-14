@@ -1,0 +1,122 @@
+[
+{
+    "model": "newsletters.logs",
+    "pk": 117,
+    "fields": {
+        "newsletter": 3,
+        "date_last_mailing": "2024-05-31T02:20:14.242Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Нерабочая рассылка\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 3."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 118,
+    "fields": {
+        "newsletter": 4,
+        "date_last_mailing": "2024-05-31T02:20:20.892Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Тестовая расссылка\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 4."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 119,
+    "fields": {
+        "newsletter": 2,
+        "date_last_mailing": "2024-05-31T02:20:22.413Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Тестовая рассылка user2\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 1."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 120,
+    "fields": {
+        "newsletter": 1,
+        "date_last_mailing": "2024-05-31T02:20:24.032Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Тестовая рассылка менеджера\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 1."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 121,
+    "fields": {
+        "newsletter": 3,
+        "date_last_mailing": "2024-05-31T02:20:33.412Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Нерабочая рассылка\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 3."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 122,
+    "fields": {
+        "newsletter": 4,
+        "date_last_mailing": "2024-05-31T02:20:39.971Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Тестовая расссылка\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 4."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 123,
+    "fields": {
+        "newsletter": 2,
+        "date_last_mailing": "2024-05-31T02:20:41.530Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Тестовая рассылка user2\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 1."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 124,
+    "fields": {
+        "newsletter": 1,
+        "date_last_mailing": "2024-05-31T02:20:43.170Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Тестовая рассылка менеджера\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 1."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 125,
+    "fields": {
+        "newsletter": 3,
+        "date_last_mailing": "2024-05-31T02:20:53.394Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Нерабочая рассылка\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 3."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 126,
+    "fields": {
+        "newsletter": 4,
+        "date_last_mailing": "2024-05-31T02:21:00.106Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Тестовая расссылка\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 4."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 127,
+    "fields": {
+        "newsletter": 2,
+        "date_last_mailing": "2024-05-31T02:21:01.867Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Тестовая рассылка user2\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 1."
+    }
+},
+{
+    "model": "newsletters.logs",
+    "pk": 128,
+    "fields": {
+        "newsletter": 1,
+        "date_last_mailing": "2024-05-31T02:21:03.454Z",
+        "status_mailing": "Успешно",
+        "response_mail_server": "Рассылка \"Тестовая рассылка менеджера\" от 31.05.2024 02:20 осуществлена. Рассылка осуществлена 0 клиентам из 1."
+    }
+}
+]
